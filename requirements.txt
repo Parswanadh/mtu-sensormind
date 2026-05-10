@@ -1,0 +1,17 @@
+torch
+xgboost
+scikit-learn
+pandas
+numpy
+langchain
+langgraph
+langchain-google-genai
+streamlit
+plotly
+sentence-transformers
+faiss-cpu
+reportlab
+groq
+python-dotenv
+sounddevice
+scipy

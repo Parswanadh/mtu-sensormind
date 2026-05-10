@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Data & Models
+data/*.txt
+data/*.pdf
+models/*.pkl
+models/*.pt
+models/*.pkl
+knowledge_base/*.bin
+knowledge_base/*.pkl
+
+# OS / IDE
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+
+# App Artifacts
+dashboard/work_orders/*.pdf
+test_initial.png
+test_agent_trace.png
+test_error.png

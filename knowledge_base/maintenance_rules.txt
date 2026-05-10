@@ -1,0 +1,30 @@
+If T24 (total temperature at HPC outlet) exceeds 3 sigma: inspect combustion chamber, check fuel nozzles.
+If Ps30 (static pressure) drops below threshold: check compressor bleed valves.
+If fan speed (Nf) anomaly + high exhaust temp: borescope inspection required within 48 hrs.
+If T30 (Total temperature at LPC outlet) shows positive drift: clean LPC blades and inspect for foreign object damage (FOD).
+If T50 (Total temperature at LPT outlet) spikes rapidly: inspect high-pressure turbine (HPT) blade cooling passages.
+If Nc (Physical core speed) exhibits high variance: check core shaft bearings and lubrication system.
+If phi (Ratio of fuel flow to Ps30) increases beyond 10%: calibrate fuel metering unit and inspect injectors.
+If NRf (Corrected fan speed) drops under load: inspect fan blades for erosion and check inlet guide vanes.
+If NRc (Corrected core speed) fluctuates with altitude changes: verify variable stator vane (VSV) actuator alignment.
+If BPR (Bypass Ratio) decreases steadily over 50 cycles: inspect fan shroud seal for wear and tear.
+If htBleed (Bleed Enthalpy) exceeds normal bounds: inspect bleed air valves and pneumatic system ducting.
+If W31 (HPT coolant bleed flow) drops: urgent borescope inspection of HPT blades for thermal degradation.
+If W32 (LPT coolant bleed flow) is restricted: check secondary air system filters and LPT stator cooling.
+If T24 and T50 both show high positive deviation: perform comprehensive hot section inspection (HSI).
+If Ps30 and phi are both anomalous: suspect fuel control unit (FCU) failure, schedule replacement.
+If Nf and Nc speeds diverge unexpectedly: inspect gearbox and drive shaft couplings.
+If T30 drops while T50 rises: potential inter-stage seal failure, schedule overhaul within 100 cycles.
+If high vibration detected alongside Nf anomaly: check fan blade balance and spinner cone torque.
+If Ps50 (Static pressure at LPT outlet) drops abruptly: inspect exhaust nozzle geometry and acoustic liners.
+If W31 and W32 both indicate low flow: clean entire secondary air cooling path during next A-check.
+If T24 spikes during takeoff power setting: inspect combustor liner for burn-through or cracking.
+If engine demonstrates slow acceleration with low Ps30: check for compressor stalls and clear variable geometry linkage.
+If phi shows erratic spikes during cruise: replace fuel flow transmitter and bleed fuel lines.
+If BPR spikes irregularly: check acoustic panel integrity and bypass duct blockages.
+If htBleed drops significantly: check anti-ice valve position and pre-cooler efficiency.
+If multiple temperature sensors (T24, T30, T50) show synchronized drift: suspect sensor wiring harness degradation, perform electrical test.
+If Nc shows steady decay over 100 cycles: plan for high-pressure compressor (HPC) refurbishment at next C-check.
+If Nf exhibits sudden step change: immediate grounding, inspect fan shaft and thrust bearing.
+If Ps30 fluctuation accompanies compressor surge stall: adjust variable bleed valve (VBV) scheduling.
+If T50 exceeds redline limits for more than 10 seconds: mandatory engine removal for HPT/LPT metallurgical analysis.
